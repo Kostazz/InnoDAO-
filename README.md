@@ -35,7 +35,7 @@ We empower anyone—experts, enthusiasts and citizens—to propose, validate and
 ## 🔗 Quick Links
 - **Brainstorm project**: https://brainstorm.pinet.com/project/68134f3ca0f5b3003c99e001
 - **Presentation video**: https://youtu.be/70_OjL4PwRQ  
-- **Website (coming soon)**: https://inno-dao.org  
+- **Website**: https://gamma.app/docs/e19msce6glg8sca
 
 ---
 
