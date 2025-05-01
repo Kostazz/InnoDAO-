@@ -1,3 +1,4 @@
+![1000004202](https://github.com/user-attachments/assets/de3ff136-b177-4103-8747-4d1f340a0d40)
 # InnoDAO-
 InnoDAO – A community-powered, Pi Network-based platform for real-world innovation. We fund and accelerate impactful science, health, and sustainability solutions using decentralized tools, open collaboration, and AI.
 # InnoDAO – Innovation Powered by Community
