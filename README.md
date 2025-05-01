@@ -33,14 +33,14 @@ We empower anyone—experts, enthusiasts and citizens—to propose, validate and
 ---
 
 ## 🔗 Quick Links
-- **Brainstorm project**: https://brainstorm.pinet.com/project/68134f3ca0f5b3003c99e001
-- **Presentation video**: https://youtu.be/70_OjL4PwRQ  
+- **Brainstorm project**: https://brainstorm.pinet.com/project/68134f3ca0f5b3003c99e001  
 - **Website**: https://gamma.app/docs/e19msce6glg8sca
 
 ---
 
 ## 💖 Support Us  
-See [`donate.md`(./donate.md) for crypto addresses and other ways to contribute.
+See oficial PI Network Wallet 
+GBK2IZ7GTMMAWGPHGVVLHEXDQDF7ZLKF4JRVBSQFM46YOW7G7NDFZ7VA
 
 ---
 
