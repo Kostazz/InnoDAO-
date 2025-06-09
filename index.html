@@ -1,4 +1,20 @@
-<!DOCTYPE html><html lang="en">
+<script src="https://sdk.minepi.com/pi-sdk.js"></script>
+<script>
+  Pi.init({ sandbox: true });
+
+  async function signInWithPi() {
+    try {
+      const scopes = ['username', 'payments'];
+      const authResult = await Pi.authenticate(scopes);
+      document.getElementById('piUser').innerText = `Welcome, @${authResult.user.username}`;
+    } catch (error) {
+      console.error('Authentication failed:', error);
+    }
+  }
+</script>
+
+<button onclick="signInWithPi()">🔑 Sign in with Pi</button>
+<p id="piUser"></p><!DOCTYPE html><html lang="en">
 <head>
   <meta charset="UTF-8">
   <title>InnoDAO - Democratizing Innovation</title>
