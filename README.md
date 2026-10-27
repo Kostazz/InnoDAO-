@@ -1,85 +1,41 @@
-![1000004202](https://github.com/user-attachments/assets/de3ff136-b177-4103-8747-4d1f340a0d40)
-# InnoDAO-
-InnoDAO – A community-powered, Pi Network-based platform for real-world innovation. We fund and accelerate impactful science, health, and sustainability solutions using decentralized tools, open collaboration, and AI.
-# InnoDAO – Innovation Powered by Community
+# InnoDAO
 
-**InnoDAO** is a decentralized platform to fund and implement real-world innovation in science, health, education and sustainability.  
-Built by the people. Powered by Pi Network. Guided by AI.
+Community-led innovation platform **concept and historical 2025 web prototype** exploring decentralised governance, AI-assisted evaluation, and potential integration with Pi Network.
 
----
+> **Status:** Development-stage concept. A Testnet entry in Pi Developer Portal does not prove that a public Mainnet application, DAO governance system, INNO token, grant fund, token bridge, or financial product is running. Do not treat historical milestones as completed without implementation and independent verification.
 
-## 🌎 Vision
-> Innovation should be shared, not owned.
+## Project scope
 
-We empower anyone—experts, enthusiasts and citizens—to propose, validate and deploy solutions for today’s toughest challenges.
+InnoDAO explores how communities could propose, evaluate, and support innovations in science, health, education, and sustainability. The project's 2025 roadmap discussed potential governance and incentives; these remain **proposals**, not a representation of existing financial or blockchain services.
 
----
+### Repository contents
 
-## 🔧 Features
-- **DAO-driven Governance**: Proposals are curated and funded by community vote (quadratic voting, token staking).  
-- **AI Assistance**: Automated impact analysis, expert matching, SDG alignment checks.  
-- **Token Incentives**: Native INNO tokens reward submissions, reviews, pilots and successful outcomes.  
-- **Transparent Ledger**: All votes, stakes and fund flows recorded on-chain.  
-- **Pi Integration**: Single-sign-on via Pi Browser & seamless token bridging once Pi mainnet launches.
+- [`index.html`](index.html): historical web landing page.
+- [`validation-key.txt`](validation-key.txt): domain-verification material used by an external integration. Do not remove without checking the linked Pi Developer Portal app and deployment.
+- [`Vision-and-Mission-A-Decentralized-Platform-for-Innovation.pdf`](Vision-and-Mission-A-Decentralized-Platform-for-Innovation.pdf): original vision document.
+- [`InnoDAO-Democratizing-Innovation-Through-Decentralized-Collaboration.1%20(1).pdf`](InnoDAO-Democratizing-Innovation-Through-Decentralized-Collaboration.1%20(1).pdf): historical concept material.
+- [`Podporte-Inovace-s-Decentralizovanym-Srdcem.pdf`](Podporte-Inovace-s-Decentralizovanym-Srdcem.pdf) and [`Support-InnoDAO-and-Cryptobudy.pdf`](Support-InnoDAO-and-Cryptobudy.pdf): original informational documents.
 
----
+The previous README referred to `roadmap.md`, `donate.md`, `innoDAO.md`, and `CONTRIBUTING.md` files that are **not present** in this repository. The historical text remains accessible through Git history; this page describes files actually included in the current default branch.
 
-## 📂 Repo Contents
-- `Vision-and-Mission.pdf` – full whitepaper  
-- `innoDAO.md` – detailed project spec  
-- `roadmap.md` – development phases  
-- `donate.md` – donation addresses & methods  
-- `CONTRIBUTING.md` – how to help  
+## Current limitations
 
----
+- No verified evidence in this repository of deployed smart contracts, actual token issuance, grants, a funded treasury, token bridging, or active voting.
+- Any Pi integration must follow the current Pi Developer Terms, App URL rules, and [Pi trademark guidelines](https://minepi.com/pi-trademark-guidelines/). This project is **not officially affiliated with or endorsed by Pi Network**.
+- Owning an app entry, a wallet or a domain is not a license to use Pi Network trademarks in a product name, logo, or commercial offering.
+- Do not send funds to an address from old project materials without an independently verified current purpose, recipient, and terms.
 
-## 🔗 Quick Links
-- **Brainstorm project**: https://brainstorm.pinet.com/project/68134f3ca0f5b3003c99e001  
-- **Website**: https://gamma.app/docs/e19msce6glg8sca
+## Privacy and Terms of Service
 
----
+**Pending:** The Pi Developer Portal currently references a GitHub repository URL for both Privacy Policy and Terms of Service. A repository homepage is not a privacy policy or terms document. Before submitting for Ecosystem Listing, create truthful, accessible, dedicated documents reflecting the **actual deployed application's** data flows, operators, user rights, and commercial terms. Do not claim those policies are already published.
 
-## 💖 Support Us  
-See oficial PI Network Wallet
+## License
 
-GBK2IZ7GTMMAWGPHGVVLHEXDQDF7ZLKF4JRVBSQFM46YOW7G7NDFZ7VA
+The material for which the author can grant rights is published under the repository's [MIT License](LICENSE), subject to third-party rights. MIT does not grant trademark, logo, brand, domain, or intellectual-property rights belonging to Pi Network or other parties.
 
----
+## Historical links
 
-## 📜 License  
-MIT © 2025 Konstantin Tunturov
+- [Pi Network Brainstorm concept](https://brainstorm.pinet.com/project/68134f3ca0f5b3003c99e001)
+- [Concept presentation](https://gamma.app/docs/e19msce6glg8sca)
 
-# 🚀 InnoDAO Roadmap
-
-**Phase 0: Concept & Community** (Q2 2025)  
-- Whitepaper publication & Brainstorm submission  
-- Discord/Telegram community channels launched  
-- Initial design sprints & Pi Fireside hackathon  
-
-**Phase 1: MVP & Pilot** (Q3 2025)  
-- Smart contracts & basic DAO governance deployed on Pi testnet  
-- AI modules: proposal analysis & expert matcher (v1)  
-- Launch 3 pilot projects (environment, health, education)  
-- Token incentive system live (INNO testnet)  
-
-**Phase 2: Public Beta** (Q4 2025)  
-- Web/mobile interface with Pi SSO  
-- Expanded AI insights (impact forecasting, SDG alignment)  
-- 10+ pilot projects, community feedback loop  
-- Governance enhancements: quadratic voting, staking rules fine-tuned  
-
-**Phase 3: Mainnet & Growth** (Q1 2026)  
-- Full integration with Pi mainnet & token bridge  
-- Launch grant fund (20% of INNO supply)  
-- Partner with NGOs, universities, incubators  
-- Developer SDK & open-source contributions  
-
-**Phase 4: Scale & Ecosystem** (Beyond)  
-- Cross-chain support (Ethereum, BSC)  
-- DAO coalitions for sector-specific challenges  
-- Marketplace for vetted AI services & data providers  
-- Success metrics: 100+ deployed innovations, measurable impact  
-
----
-
-_For detailed timelines and OKRs, see [project board](https://github.com/kozdex/InnoDAO/projects)._
+These are historical references; their current availability and statements have not been verified.
